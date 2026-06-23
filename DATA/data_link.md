@@ -8,7 +8,7 @@ While the downloaded `.zip` archive is highly compressed, extracting its content
 
 ## How to get the data:
 1. Download the highly compressed data archive from the following Zenodo repository:
-   -> [10.5281/zenodo.20815870]
+   -> [https://doi.org/10.5281/zenodo.20815869]
    
 2. Extract the contents of the downloaded archive (Make sure you have >70 GB of free space). 
 
