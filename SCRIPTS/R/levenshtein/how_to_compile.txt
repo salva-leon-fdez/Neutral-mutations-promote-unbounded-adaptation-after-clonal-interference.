@@ -1,0 +1,1 @@
+gcc levenshtein.c -O3 -march=native -mtune=native -funroll-loops -fopenmp -flto -ffast-math -o levenshtein
